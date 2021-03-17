@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "amzonee-clone",
+    "staging": "amzonee-clone"
+  }
+}
