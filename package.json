@@ -11,7 +11,7 @@
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^14.1.1",
     "axios": "^0.27.2",
-    "firebase": "^9.6.11",
+    "firebase": "^9.7.0",
     "moment": "^2.29.3",
     "react": "^18.1.0",
     "react-currency-format": "^1.1.0",
