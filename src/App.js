@@ -15,10 +15,8 @@ import Orders from './Orders';
 const promise = loadStripe('pk_test_51HRG48FyQkicy6LeXcjojZf4YVslLAQrgoWObX6V6c72goyc7kWXiUiRSIklvwblqu1rCcmNvSS4ykl0jESzNGxb000ccJNR3u')
 
 function App() {
-
-    const [
-        {}, dispatch
-    ] = useStateValue();
+  // eslint-disable-next-line no-empty-pattern
+    const [{}, dispatch] = useStateValue();
     useEffect(() => { // will only run once when the app component loads...
 
         auth.onAuthStateChanged((authUser) => {
@@ -31,7 +29,7 @@ function App() {
                 dispatch({type: "SET_USER", user: null});
             }
         });
-    }, []);
+    }, );
     return (
 
         <Router>
