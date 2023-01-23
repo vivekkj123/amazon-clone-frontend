@@ -8235,10 +8235,10 @@ react-scripts@^5.0.1:
   optionalDependencies:
     fsevents "^2.3.2"
 
-react-slideshow-image@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/react-slideshow-image/-/react-slideshow-image-4.1.1.tgz#972ccd13b42255f835b5e87a397d798464728e69"
-  integrity sha512-sY4QwAQ1xL9EqMsGS1MUh7uMoDrSDFyBxIyqmP/Hn6qemkPiq+g5vzGg991Z1EVXBIhJ/0V6f+sfTCB71h4I6A==
+react-slideshow-image@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/react-slideshow-image/-/react-slideshow-image-4.2.0.tgz#a0cb1409360e4c51b21cfa1d03d45e3fed209351"
+  integrity sha512-bdYyarv6EDg0H1SLzCA9lgbnavsQ/wkynVOOXaILTbcNZb8OQvUtSn5BulNemHTJRgJdsapQUVVKJNFuQMgd5A==
   dependencies:
     "@tweenjs/tween.js" "^18.6.4"
     resize-observer-polyfill "^1.5.1"
