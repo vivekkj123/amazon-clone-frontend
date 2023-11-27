@@ -14,7 +14,7 @@
     "axios": "^1.6.2",
     "firebase": "^10.6.0",
     "moment": "^2.29.4",
-    "react": "^16.14.0",
+    "react": "^18.2.0",
     "react-currency-format": "^1.1.0",
     "react-dom": "^16.14.0",
     "react-router": "^5.2.1",
