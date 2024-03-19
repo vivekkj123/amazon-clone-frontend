@@ -6,7 +6,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
-    "@stripe/stripe-js": "^3.0.8",
+    "@stripe/stripe-js": "^3.0.10",
     "@stripe/react-stripe-js": "^2.6.2",
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.1",
