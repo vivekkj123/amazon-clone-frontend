@@ -2154,10 +2154,10 @@
   dependencies:
     prop-types "^15.7.2"
 
-"@stripe/stripe-js@^7.3.0":
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-7.3.0.tgz#7b295ff9ca5bccfd56c1291b78079ae2f14836cc"
-  integrity sha512-xnCyFIEI5SQnQrKkCxVj7nS5fWTZap+zuIGzmmxLMdlmgahFJaihK4zogqE8YyKKTLtrp/EldkEijSgtXsRVDg==
+"@stripe/stripe-js@^7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-7.4.0.tgz#0076116ca6f994f40aa439ccf2e891a251ff2814"
+  integrity sha512-lQHQPfXPTBeh0XFjq6PqSBAyR7umwcJbvJhXV77uGCUDD6ymXJU/f2164ydLMLCCceNuPlbV9b+1smx98efwWQ==
 
 "@surma/rollup-plugin-off-main-thread@^2.2.3":
   version "2.2.3"
