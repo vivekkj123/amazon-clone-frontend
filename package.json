@@ -10,7 +10,7 @@
     "@stripe/react-stripe-js": "^4.0.2",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^15.0.7",
-    "@testing-library/user-event": "^14.6.10",
+    "@testing-library/user-event": "^14.6.13",
     "firebase": "^13.4.0",
     "axios": "^1.21.1",
     "moment": "^2.31.0",
